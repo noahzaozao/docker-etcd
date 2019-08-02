@@ -8,7 +8,7 @@
 ## create etcd-data
 
 ```bash
-mkdir /tmp/etcd-data
+mkdir ./default.etcd
 ```
 
 ## deploy_127.0.0.1.sh
